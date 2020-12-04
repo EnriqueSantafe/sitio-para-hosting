@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=nbUR1jzVI5g
+
+Lo vamos a hacer con 'Git'.
+Para comenzar a utilizar 'Git' voy a empezar inicializando el repositorio a través del editor pulsando el link 'Source Control (Ctrl + Shift + G)' y pulsando el link 'Initialize Repository'.
+Ahrora hacemos el primer commit escribiendo en el Input Message de Source Control: '1st commit' y pulsamos la v de verificación de Commit.
