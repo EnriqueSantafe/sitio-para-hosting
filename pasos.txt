@@ -25,4 +25,3 @@ Ahora copio en el repositorio los comandos:
     git branch -M main
     git push -u origin main
 y los pego en la terminal (se pueden copiar y pegar los tres comandos a la vez) y así estamos asociando el repositorio local con el repositorio remoto. 
-
