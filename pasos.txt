@@ -22,6 +22,7 @@ Ahora copio en el repositorio los comandos:
     git push -u origin main
 y los pego en la terminal (se pueden copiar y pegar los tres comandos a la vez) y así estamos asociando el repositorio local con el repositorio remoto. 
 Ahora actualizo github y en el link 'Settings' en el apartado 'Github Pages' entro en la URL 'https://enriquesantafe.github.io/sitio-para-hosting/' y veo el sitio con todos los cambios actualizados.
+
 Ahora hago otro cambio y en los estilos del div le añado un width: 200px; y un height: 30px;. Envío el commit 'div actualizado' pulsando el link 'Source Control (Ctrl + Shift + G)' y escribiendo en el Input Message de Source Control: 'div actualizado' y pulsamos la v de verificación de Commit y así ya hemos enviado el cógido al repositorio local.
 Ahora copio en el repositorio los comandos: 
     git branch -M main
